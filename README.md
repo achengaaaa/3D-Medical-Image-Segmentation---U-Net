@@ -1,5 +1,6 @@
 # 3D-Medical-Image-Segmentation---U-Net
 
+I implemented U-Net deep learning architecture aimed for medical image segmentation. Because of the dataset's 3D image nature, I constructed a data preprocessing pipeline before the traning of the Model. Finally, the model is able to correctly segment the spleen position from the 3D images. 
 
 <img width="701" alt="Screenshot 2025-05-07 at 8 32 04 PM" src="https://github.com/user-attachments/assets/c8946129-9de9-4072-a1e5-5d69920a4ece" />
 
